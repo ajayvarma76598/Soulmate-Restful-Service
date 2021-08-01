@@ -1,0 +1,8 @@
+/home/ajay/Desktop/soulmate-restful-service/src/main/java/com/stackroute/soulmateservice/Repository/UserRepository.java
+/home/ajay/Desktop/soulmate-restful-service/src/main/java/com/stackroute/soulmateservice/service/UserService.java
+/home/ajay/Desktop/soulmate-restful-service/src/main/java/com/stackroute/soulmateservice/Exceptions/UserNotFoundException.java
+/home/ajay/Desktop/soulmate-restful-service/src/main/java/com/stackroute/soulmateservice/Exceptions/UserAlreadyExistsException.java
+/home/ajay/Desktop/soulmate-restful-service/src/main/java/com/stackroute/soulmateservice/model/User.java
+/home/ajay/Desktop/soulmate-restful-service/src/main/java/com/stackroute/soulmateservice/service/UserServiceimpl.java
+/home/ajay/Desktop/soulmate-restful-service/src/main/java/com/stackroute/soulmateservice/SoulmateserviceApplication.java
+/home/ajay/Desktop/soulmate-restful-service/src/main/java/com/stackroute/soulmateservice/controller/Usercontroller.java

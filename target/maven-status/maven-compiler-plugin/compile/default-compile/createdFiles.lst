@@ -1,0 +1,8 @@
+com/stackroute/soulmateservice/Exceptions/UserAlreadyExistsException.class
+com/stackroute/soulmateservice/service/UserServiceimpl.class
+com/stackroute/soulmateservice/model/User.class
+com/stackroute/soulmateservice/SoulmateserviceApplication.class
+com/stackroute/soulmateservice/Repository/UserRepository.class
+com/stackroute/soulmateservice/service/UserService.class
+com/stackroute/soulmateservice/controller/Usercontroller.class
+com/stackroute/soulmateservice/Exceptions/UserNotFoundException.class

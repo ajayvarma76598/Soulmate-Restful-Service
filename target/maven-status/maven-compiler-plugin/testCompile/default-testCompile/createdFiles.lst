@@ -1,0 +1,4 @@
+com/stackroute/soulmateservice/SoulmateserviceApplicationTests.class
+com/stackroute/soulmateservice/Repository/UserRepositoryTest.class
+com/stackroute/soulmateservice/service/UserServiceTest.class
+com/stackroute/soulmateservice/controller/UserControllerTest.class
